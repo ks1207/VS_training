@@ -9,6 +9,8 @@ namespace ConsoleApp3
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Karel");
             Console.WriteLine("Hello All");
+            Console.WriteLine("Hello Guy");
+            Console.WriteLine("Hello Girl");
         }
     }
 }
